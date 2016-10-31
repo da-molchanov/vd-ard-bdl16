@@ -1,4 +1,4 @@
-# vd-ard-bdl16
+# Dropout-based Automatic Relevance Determination
 
 Here is an implimentation of new method with Automatic Relevance Determination (ARD) in linear models using variational dropout.
 
