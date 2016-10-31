@@ -1,4 +1,4 @@
-# vd-ard-bdl16
+# Dropout-based Automatic Relevance Determination
 
 Here is an implementation of a new method for Automatic Relevance Determination (ARD) in linear models using variational dropout. On left picture, there is an example of an object with concatenated noise, and on right ones trained dropout rates, each heat map corresponds to a weight vector in multiclass model
 ![](pics/nips.png)
